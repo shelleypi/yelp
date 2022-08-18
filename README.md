@@ -10,3 +10,6 @@ You can download the data from [Yelp's Kaggle page](https://www.kaggle.com/datas
 
 ### Summary of Results
 Our best model was <b>Logistic Regression</b> with a <b>balanced accuracy score of 0.95284</b>. We chose balanced accuracy score as our evaluation metric, since our dataset was imbalanced and both classes are equally important to us.
+
+## NOTE:
+You can download the reviews dataset from [here](https://drive.google.com/drive/folders/18-Xixg8oRfLlg8QjY5IejUHHFy8OFZj-?usp=sharing).
